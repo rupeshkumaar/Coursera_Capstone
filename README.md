@@ -1,5 +1,5 @@
 # Coursera_Capstone
-It's a repository that is about my capstone project on coursera.  
+It's a repository about my capstone project on coursera.  
 Notebook 1: Web Scraping the data  
 https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/8ec046c6-bf2e-434c-891f-853fd96e5c07/view?access_token=1ebb1d2ad16b5b9344f3f0838b045a88eb824052d8103c30123bb7f593de9178
 
